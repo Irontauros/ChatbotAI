@@ -1,0 +1,6 @@
+{
+  "incidents": [
+    { "id": 1, "description": "user lost password" },
+    { "id": 2, "description": "radar isnt working" }
+  ]
+}
